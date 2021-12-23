@@ -49,15 +49,15 @@ hr {
 }
 .nube_inferior{
   position: absolute;
-  left: 200px;
-  bottom: 220px;
+  left: 12.5rem;
+  bottom: 13.75rem;
 }
 .nube_superior{
   position: absolute;
-  right:300px;
-  top:50px;
-  height: 200px;
-  width:200px;
+  right:18.75rem;
+  top:3.125rem;
+  height: 12.5rem;
+  width:12.5rem;
 }
 .photo_johan{
   height: 280px;
