@@ -1,0 +1,97 @@
+body{
+  margin:0;
+  border: #00ADB5 10px solid;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  background-color:#D3E0EA;
+  border-style: dotted none none none;
+  border-color:grey;
+  border-width:10px;
+  width:5%;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+.contenedor_inicial{
+  padding-top: 100px;
+  background-color: #D3E4CD;
+  padding-bottom: 10px;
+}
+.contenedor_intermedio{
+  padding-top: 35px;
+  background-color: #F3F0D7;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.contenedor_final{
+  background-color: #D3E4CD;
+  margin: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.nube_inferior{
+  position: absolute;
+  left: 200px;
+  bottom: 220px;
+}
+.nube_superior{
+  position: absolute;
+  right:300px;
+  top:50px;
+  height: 200px;
+  width:200px;
+}
+.photo_johan{
+  height: 280px;
+  width: 280px;
+}
+.habilidades{
+  height: 220px;
+  width: 220px;
+}
+.cocina{
+  height: 220px;
+  width: 220px;
+}
+.tabla{
+  margin: 0 auto;
+}
+.aves{
+  height: 70px;
+  width: 70px;
+  position: absolute;
+  right:350px;
+  bottom:200px;
+  margin: 0;
+}
+.skills{
+  padding-top: 10px;
+  background-color: #D3E0EA;
+}
+.contact-me{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #EDEEF7;
+}
+.photo_johan{
+  height: 220px;
+  width: 220px;
+}
